@@ -45,6 +45,6 @@ All testing documented in this repository was performed **exclusively** on OWASP
 
 ## 👤 Author
 
-**Harshit**
+**Harshit mohan**
 MCA – Cybersecurity Specialization | Jain University, Bangalore
 Cybersecurity Internship – Week 2, Task 1
